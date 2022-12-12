@@ -159,3 +159,8 @@ while Loop:
 ```
 
 Hasil Output
+
+![WhatsApp Image 2022-12-12 at 19 25 14](https://user-images.githubusercontent.com/115516653/207047205-ee90292d-2b15-49a9-ba5e-b5455f96642b.jpeg)
+
+![WhatsApp Image 2022-12-12 at 19 25 14 (1)](https://user-images.githubusercontent.com/115516653/207047253-1b10bb72-31ac-4bea-96d0-cad93febf727.jpeg)
+
